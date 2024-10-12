@@ -15,7 +15,7 @@ gestionarea eficienta a documentelor si manipularea cererilor.
    etc.
 - `list_queue_hashtable_functions.h`: Header-ul fisierului anterior.
 
-# In continuare voi explica fiecare functie din fisierele de implementat.
+ In continuare voi explica fiecare functie din fisierele de implementat.
 ## LRU CACHE
 
 - `init_lru_cache`: Initializeaza cache-ul cu o capacitate data ca parametru.
