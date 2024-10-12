@@ -1,7 +1,10 @@
 **Nume:** Manolache Maria-Catalina
 **Grupa:** 313CAb
 
-## Tema 2 - Distributed Database
+# Distributed Database
+Programul simuleaza o baza de date distribuita, implementand un cache LRU
+si un load balancer si prezinta functionalitatile unui server pentru
+gestionarea eficienta a documentelor si manipularea cererilor.
 
 # Fisiere aditionale
 - `structs.h`: Contine toate structurile de date (auxiliare) folosite in
